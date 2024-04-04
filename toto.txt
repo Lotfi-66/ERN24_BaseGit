@@ -1,1 +1,1 @@
-info public
+info public 2
